@@ -1,1 +1,8 @@
 *.pbix
+/Reports/*.pbix
+/Data/*.xlsx
+/Data/*.xlx
+/Data/*.csv
+*.csv
+*.xlsx
+*.xlx
